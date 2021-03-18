@@ -1,0 +1,14 @@
+.btn-secondary {
+  min-width: 50px !important;
+  margin: 5px !important;
+}
+
+.img-thumbnail {
+  max-width: 12rem;
+  margin: 5px;
+  /* max-height: 10rem; */
+}
+/* 
+#body-container {
+  margin-top: 100px;
+} */
